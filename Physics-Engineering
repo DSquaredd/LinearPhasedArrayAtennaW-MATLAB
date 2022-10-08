@@ -1,0 +1,31 @@
+Phased array antennas are set apart from other antenna arrays due to their electronic steering capability. 
+This allows these arrays to change the shape and direction of the transmitted waves while keeping the array itself static. 
+This is accomplished by constructively combining the output of the individual antennas, typically patch antennas, to create a directed field of effect called the main lobe, 
+while destructively interfering with the signals propagating in non-targeted areas, forming null spaces and side lobes. 
+The design of the array is such that the energy is maximized in the main lobe, and minimized in the side lobes to provide as much as possible.
+
+
+This effect is achieved by changing the phase delay in each of the antennas, as can be seen in the following diagram[5].
+Each antenna has its own amplitude and phase, which can be controlled digitally or by analog means, with digital controllers having nanosecond response times.
+The flexibility and speed of the system allows for near real time adjustments to the field, which means that not only can a moving object be kept inside the main lobe, 
+but an area can be shielded from outside interference by creating null fields for the target frequency.
+
+A drawback to these systems that must be factored into their design is grating lobes, or side lobes. These are essentially wasted energy, as they are emanations in undesired directions. 
+These can be minimized by ensuring that the distance between individual antennas is less than one half the wavelength.
+This can create complications at higher frequencies, as the individual antennas must be very small and relatively close together. 
+Thermal design of the housing becomes increasingly important at these high frequencies. 
+This increases the complexity, and thereby the cost, of the system, as the increased proximity increases heat generation and leads to stricter manufacturing requirements. 
+
+The use of digital controllers not only increases the speed with which the phase and amplitude can be adjusted, but it allows for more flexibility, as reprogramming the controller takes significantly less effort, and can often be done remotely or even through automation[6]. 
+This is not only valuable for adjustments and installation, but it provides greater reliability for the system as a whole. Should a single antenna fail, the remaining antennas can automatically compensate in a process known as graceful degradation. 
+The following diagram shows a single element phase register[7].
+
+The component which allows for this type of beam steering is known as the phase shifter. 
+In analog phase shifters, the signal is fed to each antenna by the phase shifter and transmitted directly. 
+This reduces system latency, while also reducing cost and complexity. 
+The main drawback to analog phase shifters is that only a single signal beam can be generated. 
+Digital phase shifters require additional components for each antenna, like digital analog converters (DAC), analog digital converters (ADC), and a microcontroller powerful enough to perform the necessary calculations. 
+This requires more space and power, while generating significantly more heat that can negatively impact system performance[8].
+
+Despite the increased overhead costs, the flexibility and reliability of digital systems can not be ignored. 
+The potential to detect and track targets on the edge of the field of effect while suppressing sidelobe interference in non-target areas is an invaluable property in many applications.
