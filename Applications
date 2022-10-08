@@ -1,0 +1,26 @@
+
+Since the beginning the military has optimized and pushed forward the advances of phased array design to improve features, functionality, and cost. 
+For best results the antenna is steered electrically offering low profile/less volume, improved long-term reliability, speed, and higher beam projection[10].
+We see this applied in the AN/SPY-1 phased array radar for the Aegis Combat System deployed on the U.S cruisers and destroyers that searches, tracks, and guides missiles for over 100 targets simultaneously[10], as well as on the Thales Phased array multi-functioning radar for automatic detection of 200 targets for the French, Russian, and Singapore militia services.
+Rapidity is such a key element in all military needs as they must detect objects within microseconds to protect our territory. 
+Today, phased array radar systems are used in Navy warships. Before this amazing technology was available, each surface-to-air missile in flight required a fire control radar, which could only engage a small number of simultaneous targets[10]. 
+
+Phased array antennas in military applications have very specific requirements and standards that are difficult to meet. 
+The digital communications array used by the Navy is a “key enabler for higher data throughputs and reduced latency needed to engage evolving threats and enabling improvements in utilization spectrum”[10]. 
+Everyday the signal integrity, dynamic range, and isolation of signals boundaries are pushed to maximize performance yet only the surface of this technology has been tapped. 
+No technology can meet their standards just yet. 
+
+We often see metal towers in every corner of the city. We know they are part of our mobile networks and work to provide us with high speed internet and cellular data.
+These 5G towers are actually made up of phased array antennas working in high frequency ranges to send and receive signals in every direction. 
+The 5G radio access network (RAN) is relatively new and it brings ultrafast speed, greater capacity, and very low latency characteristics that allow mobile networks to have reliable connection and support of critical applications[12]. 
+Because data usage is growing at a far faster rate than revenue, mobile network operators (MNOs) must upgrade the RAN in a way that allows for both lower cost per bit and the essential end-user performance improvements[13]. 
+These antennas must create multiple independent beams, hundreds of beams, with a 360 degree azimuthal coverage, and with a gain greater than 20 db[13]. 
+In addition, for analog platforms they need to accept complex feeding networks or powerful digital processing.  
+
+This generation of mobile phones needs to be compatible with 5G networks to accept and send the high frequency signals in transit with 5G towers. 
+An integrated directional phased-array antenna is now found in common cell phones with the abilities to obtain wider bandwidths, steer electronically and transmit millimeter waves. 
+The Shanghai Institute for Advanced Communications and Data Science at Shanghai University in China were the first to research this technology. 
+With a 28 GHz beam steering antenna array integrated into a metallic casing of a cell phone[14]. 
+Scientists are now developing antennas that are tenths to hundreds of the size of present antennas. Their mini-antennas broadcast and received 2.5 GHz signals roughly 100,000 times more efficiently than a typical antenna, according to the study published in Nature[15]. 
+Scientists and engineers are finding new ways to implement antennas in tried-and-true technologies. The future of this technology is here and it is going to change everything we know about electronics we use every day. 
+
